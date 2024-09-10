@@ -19,31 +19,11 @@
 
 ## <picture> <img src = "https://media.giphy.com/media/80dIUvgluhCGuHKjBP/giphy.gif?cid=ecf05e47ffla7imfeqm50230s91b114933cr99toyhx2e7co&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 40px>  </picture> Technologies that I know
 
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=790b7611vjp0m1a7kk33n9ykfoionjqshhs608tacnzk83tj&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 50px>
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width = 50px>
-  </a> 
-  &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="JavaScript" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width = 50px>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,tailwind,bootstrap,vscode,notion,discord&perline=14" />
   </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width = 50px>
-</a>
-&emsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img alt="JavaScript" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=790b7611lrwp1uv0k0qgunitc0u1wiaqi5grwjjvqf5chalj&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 50px>
-</a>
-&emsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img alt="JavaScript" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif?cid=790b7611nqv78zoi7bvzshwlwy9haa0s54yb7akshkxsdak7&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 90px>
-</a>	
 </p>
-<br><br>
+<br>
+
 <p align="center"> Thank You for taking the time to view my GitHub Profile 😄</p> 
