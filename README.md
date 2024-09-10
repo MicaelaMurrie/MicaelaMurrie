@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Micaela Murrie <img src="https://media.giphy.com/media/wtdVYmaRWJ1PyPcc8e/giphy.gif?cid=ecf05e47rcj0ce8z53gpyozw8islnkxcg6gp6emv0abwc8yy&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35"></h1>
+<h1 align="center">Hi, I'm Micaela Murrie </h1>
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=2CAFF7&center=true&vCenter=true&random=false&width=435&lines=Web+Development+Student;Frontend+development+oriented;Always+learning+new+things..." alt="Typing SVG" /></a>
 </p> 
@@ -7,7 +7,7 @@
 ## <picture><img src = "https://media.giphy.com/media/iIephUVYDziLt2uOy9/giphy.gif?cid=ecf05e47wsc5saakghkukzcd75p081lw16uzueza2n8qo0gp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 30px></picture> About me
 
 <picture> <img align="right" src="https://media.giphy.com/media/KESQSCbtsnzq/giphy.gif?cid=ecf05e47hi8xj2dm2a35d3xmysoz6db9irtg1gtclfg2o323&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 225px></picture>
-<br><br>
+<br>
 
 - 🤓 I’m currently learning `Full-Stack Web Development`.
 - 👯 I’m looking to collaborate on `OSS Frontend Projects`.
@@ -24,6 +24,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,git,github,tailwind,bootstrap,vscode,notion,discord&perline=14" />
   </a>
 </p>
-<br>
+<br><br>
 
 <p align="center"> Thank You for taking the time to view my GitHub Profile 😄</p> 
