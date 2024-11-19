@@ -9,7 +9,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/KESQSCbtsnzq/giphy.gif?cid=ecf05e47hi8xj2dm2a35d3xmysoz6db9irtg1gtclfg2o323&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 225px></picture>
 <br>
 
-- 🤓 I’m currently learning `Full-Stack Web Development`.
+- 🤓 I’m currently focused on improving my skills in `Frontend Web Development` and exploring `UX/UI Design`.
 - 👯 I’m looking to collaborate on `OSS Frontend Projects`.
 - 🙋 I’m currently open for a `job opportunity`.
 - 💬 Ask me about GitHub :octocat:.
